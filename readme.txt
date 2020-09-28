@@ -1,5 +1,5 @@
 ## COVID-19 Data Dynamic Visualiztion
-Visually communicating information compressively conveys the message and also hugely increases the understanding of the viewers.
+#### Visually communicating information compressively conveys the message and also hugely increases the understanding of the viewers.
 
 This post is about creating an animation graph for a COVID-19 dataset and present it in a way viewers can easily see and understand how the virus is spreading across the globe. 
 
